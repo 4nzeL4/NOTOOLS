@@ -20,17 +20,12 @@ DON'T FORGET TO LIKE MY FANSPAGE
 
 HOW TO INSTALL?
 
-/ apt-get install git
-
-/ apt-get install php
-
-/ apt-get install php-cli
-
-/ git clone https://github.com/4nzeL4/NOTOOLS.git
-
-/ cd NOTOOLS 
-
-/ php notools.php
+: apt-get install git
+: apt-get install php
+: apt-get install php-cli
+: git clone https://github.com/4nzeL4/NOTOOLS.git
+: cd NOTOOLS 
+: php notools.php
 
 
 
